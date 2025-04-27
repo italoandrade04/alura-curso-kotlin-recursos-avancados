@@ -1,1 +1,2 @@
-# alura-curso-kotlin-recursos-avancados
+# alura-curso-kotlin-testes
+Curso de Kotlin - Parte de testes
